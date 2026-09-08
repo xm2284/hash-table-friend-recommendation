@@ -1,0 +1,26 @@
+# Binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Documents
+*.docx
+*.pdf
+*.zip
+
+# Python
+*.py
+__pycache__/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Directories
+_console_capture_tmp/
+_render_check/
+_render_final_check/
+_report_console_render/
+.agents/
